@@ -1,4 +1,7 @@
-# proje
-# proje2
-# proje-2
-# Proje-2
+<h1>Proje Ödevi</h1>
+
+E-Ticaretin Önemi-1
+
+<h2>Ekran Görünütüsü</h2>
+
+![](gif.gif)

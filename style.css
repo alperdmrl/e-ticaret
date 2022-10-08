@@ -80,7 +80,9 @@ header {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 80px;
-    color:tomato;
+    color: rgb(120, 60, 180);
+    text-shadow: 3px 5px 0px rgb(149, 149, 158);
+    
 }
 
 section {
